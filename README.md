@@ -1,1 +1,1 @@
-# Online_Shop
+# This is an Online Shopping App.
